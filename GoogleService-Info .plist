@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>361216720499-k2slvebp44f3iaiv25tvba2o5bld1c35.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.361216720499-k2slvebp44f3iaiv25tvba2o5bld1c35</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7NRPGtD47pInmeMZCVQkNUw4S9vNir4A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>361216720499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>punching</string>
+	<key>PROJECT_ID</key>
+	<string>punching-c1e0a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>punching-c1e0a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:361216720499:ios:3b8367a0fe078606</string>
+	<key>DATABASE_URL</key>
+	<string>https://punching-c1e0a.firebaseio.com</string>
+</dict>
+</plist>
